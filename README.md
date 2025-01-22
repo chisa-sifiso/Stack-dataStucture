@@ -17,5 +17,6 @@
     </ul>
     <h2>How to Run</h2>
     <p>Compile and run the <code>StackAct.java</code> file using a Java compiler. Make sure <code>Employee.java</code> is in the same package.</p>
+    <h4>developed by Sifiso Vinjwa</h4>
 </body>
 </html>
